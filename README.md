@@ -9,10 +9,10 @@
 * [Matemática Discreta](https://github.com/ifrn-tads/awesome-tads/edit/master/disciplinas/)
 
 ## 2º Semestre
-* Inglês para Informática](https://github.com/ifrn-tads/awesome-tads/edit/master/disciplinas/)
+* [Inglês para Informática](https://github.com/ifrn-tads/awesome-tads/edit/master/disciplinas/)
 * [Programação Orientada a Objetos](https://github.com/ifrn-tads/awesome-tads/edit/master/disciplinas/programacao-orientada-a-objetos.md)
 * [Algoritmos](https://github.com/ifrn-tads/awesome-tads/blob/master/disciplinas/algoritmos.md)
-* Redes de Computadores](https://github.com/ifrn-tads/awesome-tads/edit/master/disciplinas/)
+* [Redes de Computadores](https://github.com/ifrn-tads/awesome-tads/edit/master/disciplinas/)
 * [Arquitetura de Computadores](https://github.com/ifrn-tads/awesome-tads/edit/master/disciplinas/arquitetura-de-computadores.md)
 * [Interface Humano-Computador](https://github.com/ifrn-tads/awesome-tads/edit/master/disciplinas/)
 
