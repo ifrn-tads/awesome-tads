@@ -3,7 +3,7 @@
 ## 1º Semestre
 * Língua Inglesa
 * Língua Portuguesa
-* Programação de Computadores
+* [Programação de Computadores](https://github.com/ifrn-tads/awesome-tads/blob/master/disciplinas/programacao-de-computadores.md)
 * [Sistemas Digitais](https://github.com/ifrn-tads/awesome-tads/blob/master/disciplinas/sistemas-digitais.md)
 * [Web Design](https://github.com/ifrn-tads/awesome-tads/blob/master/disciplinas/webdesign.md)
 * Matemática Discreta
