@@ -5,7 +5,7 @@
 * Língua Portuguesa
 * Programação de Computadores
 * Sistemas Digitais
-* Web Design
+* [Web Design](https://github.com/ifrn-tads/awesome-tads/blob/master/disciplinas/webdesign.md)
 * Matemática Discreta
 
 ## 2º Semestre
