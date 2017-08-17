@@ -4,7 +4,7 @@
 * Língua Inglesa
 * Língua Portuguesa
 * Programação de Computadores
-* Sistemas Digitais
+* [Sistemas Digitais](https://github.com/ifrn-tads/awesome-tads/blob/master/disciplinas/sistemas-digitais.md)
 * [Web Design](https://github.com/ifrn-tads/awesome-tads/blob/master/disciplinas/webdesign.md)
 * Matemática Discreta
 
