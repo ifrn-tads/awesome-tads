@@ -11,7 +11,7 @@
 ## 2º Semestre
 * Inglês para Informática
 * Programação Orientada a Objetos
-* Algoritmos
+* [Algoritmos](https://github.com/ifrn-tads/awesome-tads/blob/master/disciplinas/algoritmos.md)
 * Redes de Computadores
 * Arquitetura de Computadores
 * Interface Humano-Computador
