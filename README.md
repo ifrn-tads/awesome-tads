@@ -39,8 +39,7 @@
 * Desenvolvimento de Sistemas Coorporativos
 * Empreendedorismo
 * Gerenciamento de Projetos
-* Teste de Software
-  * [Software Testing Fundamentals](http://softwaretestingfundamentals.com)
+* [Teste de Software](https://github.com/ifrn-tads/awesome-tads/blob/master/disciplinas/teste-de-software.md)
 
 ## 6º Semestre
 
