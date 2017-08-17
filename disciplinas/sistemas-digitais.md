@@ -1,5 +1,5 @@
 # Sistemas Digitais
 ## Links
-*[Logisim](http://www.cburch.com/logisim/)
+* [Logisim](http://www.cburch.com/logisim/)
 ## Livros
 ## Videos
